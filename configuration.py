@@ -1,5 +1,5 @@
 # URL_SERVICE хранит базовый URL веб-сервиса, который используется для доступа к API или другим ресурсам.
-URL_SERVICE = " https://ac78ff26-8aff-4f34-9a6e-8a6ca9f8b9a1.serverhub.praktikum-services.ru"
+URL_SERVICE = " https://bdf7b233-ba33-4d9a-90a8-6e2542f37ea0.serverhub.praktikum-services.ru"
 
 # CREATE_ORDER_PATH хранит путь к API-методу для создания нового заказа.
 CREATE_ORDER_PATH = "/api/v1/orders"
